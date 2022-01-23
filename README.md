@@ -208,6 +208,9 @@ function change_color(element){
 ### Blank Canvas:
 ![output](blankcanvas.png)
 
+### Size Change:
+![output](sizechange.png)
+
 ### Drawn Canvas:
 ![output](drawncanvas.png)
 
